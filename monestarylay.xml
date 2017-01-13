@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>monestarylay</name>
+    <description>an overlay where I simply bump versions of software I use</description>
+    <homepage>https://github.com/jappeace/monestarylay</homepage>
+    <owner>
+      <email>superpwnzormegaman@gmail.com</email>
+      <name>Jappie Klooster</name>
+    </owner>
+    <source type="git">https://github.com/jappeace/monestarylay</source>
+  </repo>
+</repositories>
